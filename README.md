@@ -1,3 +1,7 @@
+Model: [Physmend](https://huggingface.co/lxr2003/Physmend)
+
+Dataset: [PM-Pile](https://huggingface.co/datasets/lxr2003/PM-Pile/tree/main)
+
 Region editing:
 
 ```bash
