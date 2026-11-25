@@ -1,6 +1,5 @@
-Model: [Physmend](https://huggingface.co/lxr2003/Physmend)
-
-Dataset: [PM-Pile](https://huggingface.co/datasets/lxr2003/PM-Pile/tree/main)
+[![Hugging Face Models](https://img.shields.io/badge/HuggingFace-Models-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/lxr2003/Physmend)
+[![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/lxr2003/PM-Pile/tree/main)
 
 Region editing:
 
