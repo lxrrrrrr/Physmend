@@ -1,0 +1,314 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 71,
+      "sha256": "76d0071cac2f0c4fb1d6edb283c96d4591715da0540fc6d4677c6d37d3e2580a"
+    },
+    {
+      "path": "License.txt",
+      "bytes": 16094,
+      "sha256": "dd2e9f88480f7d00a073464d5de89f1a60bc744e92ba909eddbbc3ca402cbf47"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1153,
+      "sha256": "fea2c370602badb2dbc8020da39d8acc922b36507eb793b8b457c8963be8d12c"
+    },
+    {
+      "path": "examples/README.md",
+      "bytes": 221,
+      "sha256": "fa917a8bd459e9d4e414750ffe9cfcec879a82a6416271eaa47dfaf8e59e8add"
+    },
+    {
+      "path": "examples/liquid_overflow/example.json",
+      "bytes": 1081,
+      "sha256": "761c6f5f250c1d54caef3a1ac4c7f3abdab7993ae515d66d33c39dd7e7d50db6"
+    },
+    {
+      "path": "examples/liquid_overflow/first_frame.jpg",
+      "bytes": 1204145,
+      "sha256": "e1cd7e77141cf4429c4a4c2d170004a18f82bd103260e6064c9ffdf7762ca9ac"
+    },
+    {
+      "path": "examples/liquid_overflow/instruct.txt",
+      "bytes": 898,
+      "sha256": "038e773d60ca19a171727d656997bf817c2eb76e277c3d9fbbbe57c0e89e2513"
+    },
+    {
+      "path": "examples/liquid_overflow/mask.npy",
+      "bytes": 33592448,
+      "sha256": "6ba864a9352b5bfa0245b27b4eb6813a003790cc395a0f0be5709b735f410c51"
+    },
+    {
+      "path": "examples/liquid_overflow/prompt.txt",
+      "bytes": 389,
+      "sha256": "7e3216fc0a0fb14c698cdffa27c5353821bad457c98c9bc3babaf068044c5ae9"
+    },
+    {
+      "path": "examples/liquid_overflow/source.mp4",
+      "bytes": 436965,
+      "sha256": "1cc07585002ed848f7e21bee5304424a6347f92d8fcd2098ba2bef16f3b7994c"
+    },
+    {
+      "path": "hyvideo/__init__.py",
+      "bytes": 1959,
+      "sha256": "6280d2f737351de487df212b901d7f293ec92e954603db5da9271af1ea4d0593"
+    },
+    {
+      "path": "hyvideo/commons/__init__.py",
+      "bytes": 5920,
+      "sha256": "a9e3ac792b62971246545094a250cbf9f3dd85ae5db86a6ea61ef5202b4b267f"
+    },
+    {
+      "path": "hyvideo/commons/cache_helper.py",
+      "bytes": 2871,
+      "sha256": "43586bb1906c86eee1b2e5d96f55a52cac5d739da6e4a1aaeaac99df45e782d0"
+    },
+    {
+      "path": "hyvideo/commons/infer_state.py",
+      "bytes": 3614,
+      "sha256": "819b79e88dcb0299b2cf7aedc9c8c723ea39d59a07307e4bad00af60022bb922"
+    },
+    {
+      "path": "hyvideo/commons/parallel_states.py",
+      "bytes": 3375,
+      "sha256": "abc5b8f9479ccbb65260f128ed81647ae1ea61a3079b492a6cb45689a3b1ebf4"
+    },
+    {
+      "path": "hyvideo/models/__init__.py",
+      "bytes": 1108,
+      "sha256": "b0dbc51df5b633f1da1d459d44703b39841dc119f63a2eb937d61b4ed07706ad"
+    },
+    {
+      "path": "hyvideo/models/autoencoders/__init__.py",
+      "bytes": 1109,
+      "sha256": "334f3ae27552d1d6b7b68b648d9ae7deebed0ae966c585b33877c820ec481b6b"
+    },
+    {
+      "path": "hyvideo/models/autoencoders/cached_vae.py",
+      "bytes": 796,
+      "sha256": "19fb43e99bb29a67a80474c87b2102a1df1a695139167c372afdbb22416903c5"
+    },
+    {
+      "path": "hyvideo/models/autoencoders/hunyuanvideo_15_vae.py",
+      "bytes": 37320,
+      "sha256": "e6fb09e29c581945e8e59360f2fd04e879c611e88b47a11a0106e9abc4d7df66"
+    },
+    {
+      "path": "hyvideo/models/text_encoders/__init__.py",
+      "bytes": 35895,
+      "sha256": "75025be5e544570ad7ece213069c71add233f0074635e452a8d0882d58dd9167"
+    },
+    {
+      "path": "hyvideo/models/text_encoders/byT5/__init__.py",
+      "bytes": 8290,
+      "sha256": "718fd95612d1e1b6ba390aa37d5e0a4ae7c36dd4c4c98d8079a9177e4bc6b916"
+    },
+    {
+      "path": "hyvideo/models/text_encoders/byT5/format_prompt.py",
+      "bytes": 3181,
+      "sha256": "ab0b035abc39094040aaa43a246bd5ee43a927d5f5abaf2d434ad8c4977b9958"
+    },
+    {
+      "path": "hyvideo/models/transformers/hunyuanvideo_1_5_transformer.py",
+      "bytes": 41864,
+      "sha256": "7872acdbc73eeee2692b56cbcab95c0adb6cb8e6db2c9a482f1ec61aad3d866e"
+    },
+    {
+      "path": "hyvideo/models/transformers/modules/activation_layers.py",
+      "bytes": 1699,
+      "sha256": "b794926c85569a40b30c1f96451c1e57d8f3b4f9726b0b956459e805b872a24d"
+    },
+    {
+      "path": "hyvideo/models/transformers/modules/attention.py",
+      "bytes": 12608,
+      "sha256": "4b4241ee7932a8a2f03c26437a6f28f3c12ff3d070f896bd265e4e770c37610d"
+    },
+    {
+      "path": "hyvideo/models/transformers/modules/embed_layers.py",
+      "bytes": 7227,
+      "sha256": "7e025d178c2e67d58cd3c58436ce795c35a5d2aed2a14fb8d7acac97c4d46fd9"
+    },
+    {
+      "path": "hyvideo/models/transformers/modules/mlp_layers.py",
+      "bytes": 5452,
+      "sha256": "a796db1b7d89b5b4b837e938e52585b27c00e9fe9c38a9f0f440aaa884467b31"
+    },
+    {
+      "path": "hyvideo/models/transformers/modules/modulate_layers.py",
+      "bytes": 3100,
+      "sha256": "1c5929c39db7093390a4761af56330585b4f90026f14a36f912a9e65fa6067b7"
+    },
+    {
+      "path": "hyvideo/models/transformers/modules/norm_layers.py",
+      "bytes": 3227,
+      "sha256": "8e63dcbb54ff43d2eefd672c265590f5f90f6654098ee6774d2ea6e8ffee67c3"
+    },
+    {
+      "path": "hyvideo/models/transformers/modules/posemb_layers.py",
+      "bytes": 14084,
+      "sha256": "beb4e0f9f84ad1d60d06db0f982710de6ae07e3ee7013a5078e752f7ec25a8ec"
+    },
+    {
+      "path": "hyvideo/models/transformers/modules/ssta_attention.py",
+      "bytes": 30949,
+      "sha256": "2d29dc7078de4b226ad909a44f6068ffefc6e002cc18865cef5dd756eeda3490"
+    },
+    {
+      "path": "hyvideo/models/transformers/modules/token_refiner.py",
+      "bytes": 10490,
+      "sha256": "02675467e7505b13e8a2f085a9bf5460a64b43af8355cee86592458eb5effb9b"
+    },
+    {
+      "path": "hyvideo/models/transformers/modules/upsample.py",
+      "bytes": 5993,
+      "sha256": "b88908e9694bab4c1147b1091df0213780d964f5a41350bd0968db922fbe0735"
+    },
+    {
+      "path": "hyvideo/models/vision_encoder/__init__.py",
+      "bytes": 8998,
+      "sha256": "6e6e1d7564d1ae167b0f272349671f7190ecc57f792abc0854e46f89964ac513"
+    },
+    {
+      "path": "hyvideo/pipelines/hunyuan_video_pipeline.py",
+      "bytes": 103343,
+      "sha256": "c1e778d271d6badd2ad704ffdc66b62ed18e06d283f07f83b6c294c83a1d34e4"
+    },
+    {
+      "path": "hyvideo/pipelines/pipeline_utils.py",
+      "bytes": 5113,
+      "sha256": "c1ad8e23a0c2e6420fd75080bec6e6d1f2f4fb18a2b1ff35ee587fe9687d83fa"
+    },
+    {
+      "path": "hyvideo/schedulers/scheduling_flow_match_discrete.py",
+      "bytes": 11902,
+      "sha256": "9c1fd6a5324117e74d8ef2584602f2e00c6308d9043efcbdc8b96c8f7a6ccb68"
+    },
+    {
+      "path": "hyvideo/utils/communications.py",
+      "bytes": 11284,
+      "sha256": "dd0c3c9cb697c38f540d6acacd3f1d383ebeafca371a94617583f9e4e0d2646c"
+    },
+    {
+      "path": "hyvideo/utils/data_utils.py",
+      "bytes": 3176,
+      "sha256": "edfc84f529d47cb651ae772b94a0121d6e96142593779b52fd12a6eaaf4662d7"
+    },
+    {
+      "path": "hyvideo/utils/flash_attn_no_pad.py",
+      "bytes": 3909,
+      "sha256": "e9835a76bb2908a1160fec435a9b2e230b6db0588199ea48e6ae66309b2b5b67"
+    },
+    {
+      "path": "hyvideo/utils/infer_utils.py",
+      "bytes": 1562,
+      "sha256": "b90efc79de83fbcbb8e3d78b561c52ff40d8ce4472acdd5958ebc31d47e468a1"
+    },
+    {
+      "path": "hyvideo/utils/multitask_utils.py",
+      "bytes": 23778,
+      "sha256": "15c62f5479b79b99ed26b905b1b7d31c0e9a8c5c430aa8a9e62b6e113b4615f6"
+    },
+    {
+      "path": "infer_edit.py",
+      "bytes": 93,
+      "sha256": "5f254acdf2e159d1ad91e54fed2cd67755757cdfc0f961d0670457420c2365ec"
+    },
+    {
+      "path": "infer_i2v.py",
+      "bytes": 92,
+      "sha256": "bf8d8c02d6ce5293cff00114fe8aa0684d237738d1a39b6144995d7e7cdcb7bc"
+    },
+    {
+      "path": "infer_t2v.py",
+      "bytes": 92,
+      "sha256": "47d26e8f5a7e9c0b2a2d9dfeb3c77a7c00fc36b9e15943eb990a5d3f2768f453"
+    },
+    {
+      "path": "inference.py",
+      "bytes": 9865,
+      "sha256": "7f71ac9acbf614b207a6bef61a4525f9d391d81baffb7ec2d7bcbe488c3e49c8"
+    },
+    {
+      "path": "local_edit/__init__.py",
+      "bytes": 76,
+      "sha256": "0dc4ed3cb8d8de98b6c661f191a0ca54c9773c7d3386d21fbb77c5f68d16d174"
+    },
+    {
+      "path": "local_edit/attention.py",
+      "bytes": 3561,
+      "sha256": "c18e4a971ab14235af8ec022119603d6b675d59343f437a96f6a92c8bc1baeb5"
+    },
+    {
+      "path": "local_edit/engine.py",
+      "bytes": 7690,
+      "sha256": "b86437d56bb5411dc20090f0e2e103e410b2f8fe712cc7803c5fe57a702d15c7"
+    },
+    {
+      "path": "local_edit/masking.py",
+      "bytes": 3152,
+      "sha256": "3d63aa98b1c19a7f5f0b6c738073449d1c04eca3b8b54cbbbb0aa6042b83029e"
+    },
+    {
+      "path": "local_edit/pipeline.py",
+      "bytes": 7221,
+      "sha256": "dc15fb682f6d958732eb949d2caf2254056ae97d1f5ec67687eb302b648f9571"
+    },
+    {
+      "path": "local_edit/trained_inference.py",
+      "bytes": 5765,
+      "sha256": "76ca88d97c177a70da1163f62699dd021b0b9c432b827c0089483a1044d90819"
+    },
+    {
+      "path": "model_assets.py",
+      "bytes": 3914,
+      "sha256": "9c532a18e6cf6dccc8a2cef4d1223cd431e61b11b8b892355716476bd44dfd97"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 321,
+      "sha256": "8c73025d18dfe479edbab691dfc95b1f61e91009ee85ae948388be661defced1"
+    },
+    {
+      "path": "run_edit.sh",
+      "bytes": 164,
+      "sha256": "e5fd5e3d672bdd4578e9b9a2256d0246ba2fa3a8e4327d4c345aa0a3ad312133"
+    },
+    {
+      "path": "run_i2v.sh",
+      "bytes": 163,
+      "sha256": "6ad855f880521db46ba2728bf26322032e9b9cb8540dc461c5687e31867fed49"
+    },
+    {
+      "path": "run_t2v.sh",
+      "bytes": 163,
+      "sha256": "690a814ed5563cbd5400550b1abd4b92451c6b92c7e87b90a26b7247654bd322"
+    },
+    {
+      "path": "tests/test_inference.py",
+      "bytes": 3792,
+      "sha256": "be35b225304c71e91659ac4d044cc475a7aa63578f5ab48d6c6d928db5711b17"
+    },
+    {
+      "path": "tests/test_local_edit.py",
+      "bytes": 9310,
+      "sha256": "2c1ef18529ceef01a4502ebb8badafa594bf6a430c4ddf284f6708fe841389ad"
+    },
+    {
+      "path": "tests/test_merge.py",
+      "bytes": 2726,
+      "sha256": "da3bd4d04d77f0d7d0a88a74c04714108a8af12db703c82c7412c979056cec52"
+    },
+    {
+      "path": "tools/merge_lora.py",
+      "bytes": 6529,
+      "sha256": "b92b5ba0d3c3ff235faf88278121543a10ff72c44e3dbccf61c8807a1f26a51f"
+    },
+    {
+      "path": "video_io.py",
+      "bytes": 3239,
+      "sha256": "0c81f1921e2a4a3c8436b514757628bdad095637aae3af27bc2a3a6e1995ffb2"
+    }
+  ]
+}

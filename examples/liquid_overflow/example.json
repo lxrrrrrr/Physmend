@@ -1,0 +1,43 @@
+{
+  "sample_id": "0090",
+  "source": "source.mp4",
+  "mask": "mask.npy",
+  "instruct": "instruct.txt",
+  "prompt": "prompt.txt",
+  "image": "first_frame.jpg",
+  "reference": "reference_edited.mp4",
+  "seed": 2768594355,
+  "steps": 30,
+  "cfg": 6.0,
+  "flow_shift": 7.0,
+  "attention": "flash",
+  "source_frames": 80,
+  "model_frames": 81,
+  "output_frames": 80,
+  "fps": 16,
+  "short_side": 480,
+  "historical_scores": {
+    "before": {
+      "SP": 3.3622351787399785,
+      "ST": 35.14709155148568,
+      "WS": 2.3866700917471744,
+      "MSE_score": 100.0,
+      "Physics_IQ": 35.22399920549321
+    },
+    "after": {
+      "SP": 100.0,
+      "ST": 55.320404327820825,
+      "WS": 100.0,
+      "MSE_score": 73.8547393364929,
+      "Physics_IQ": 82.29378591607843
+    },
+    "delta": {
+      "SP": 96.63776482126002,
+      "ST": 20.173312776335145,
+      "WS": 97.61332990825282,
+      "MSE_score": -26.145260663507102,
+      "Physics_IQ": 47.06978671058523
+    }
+  },
+  "note": "Scores are the archived official view-normalized Physics-IQ record; not re-scored in this package."
+}
